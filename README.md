@@ -1,5 +1,7 @@
 install laravel 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 create database 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 create products table in database 
 
 CREATE TABLE posts (
